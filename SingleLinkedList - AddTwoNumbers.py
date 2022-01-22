@@ -1,6 +1,10 @@
-# Input: l1 = [2,4,3], l2 = [5,6,4]
-# Output: [7,0,8]
-# Explanation: 342 + 465 = 807.
+# source: https://leetcode.com/problems/add-two-numbers/
+
+'''
+Input: l1 = [2,4,3], l2 = [5,6,4]
+Output: [7,0,8]
+Explanation: 342 + 465 = 807.
+'''
 
 class ListNode:
     def __init__(self, x):
@@ -35,9 +39,3 @@ class Solution(object):
             result = 0
             temp = temp.next
         return l3.next
-
-
-if __name__ == '__main__':
-    node, node.next, node.next.next = ListNode(2), ListNode(4), ListNode(3)
-
-
