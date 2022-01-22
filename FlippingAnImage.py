@@ -8,15 +8,16 @@ To invert an image means that each 0 is replaced by 1, and each 1 is replaced by
 For example, inverting [0,1,1] results in [1,0,0]
 '''
 
-lst1 = [[1,0,0],[0,1,1],[0,1,0]]
-for i in lst1:
-    i.reverse()
-    counter = 0
-    for j in i:
-        if j == 0:
-            i[counter] = 1
-            counter+=1
-        else:
-            i[counter] = 0
-            counter+=1
-print(lst1)
+class Solution:
+    def flipAndInvertImage(self, image):
+        for i in image:
+            i.reverse()
+            counter = 0
+            for j in i:
+                if j == 0:
+                    i[counter] = 1
+                    counter+=1
+                else:
+                    i[counter] = 0
+                    counter+=1
+        return image
