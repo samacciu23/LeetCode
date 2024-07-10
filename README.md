@@ -8,3 +8,4 @@
 | [ContainsDuplicate](https://leetcode.com/problems/add-two-numbers/) | [ContainsDuplicate.py](https://github.com/samacciu23/LeetCode/blob/main/problems/ContainsDuplicate.py) | Set |
 | [TopKFrequentElements](https://leetcode.com/problems/top-k-frequent-elements/) | [TopKFrequentElements.py](https://github.com/samacciu23/LeetCode/blob/main/problems/TopKFrequentElements.py) | Heap (Priority) Queue |
 | [TwoSum](https://leetcode.com/problems/two-sum/) | [TwoSum.py](https://github.com/samacciu23/LeetCode/blob/main/problems/TwoSum.py) | Hash Map |
+| [ValidAnagram](https://leetcode.com/problems/valid-anagram/) | [ValidAnagram.py](https://github.com/samacciu23/LeetCode/blob/main/problems/ValidAnagram.py) | Hash Map (Counter) |
