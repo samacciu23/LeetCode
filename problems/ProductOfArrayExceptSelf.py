@@ -6,7 +6,7 @@ class MySolution:
         n = len(nums)
         zeros = nums.count(0)
         if zeros >= 2:
-            return [0]*n
+            result = [0]*n
         elif zeros == 1:
             zero_i = nums.index(0)
             other_nums = nums[:zero_i]+nums[zero_i+1:]
