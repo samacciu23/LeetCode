@@ -17,4 +17,4 @@
 | Name | Solution | Command | 
 | --- | --- | --- | 
 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [RecyclableAndLowFatProducts.sql](https://github.com/samacciu23/LeetCode/blob/main/problems/sql/select/RecyclableAndLowFatProducts.sql) | Select |
-| [Product Sales Analysis](https://leetcode.com/problems/product-sales-analysis-i/) | [ProductSalesAnalysis.sql](https://github.com/samacciu23/LeetCode/blob/main/problems/sql/select/ProductSalesAnalysis.sql) | Inner Join |
+| [Product Sales Analysis](https://leetcode.com/problems/product-sales-analysis-i/) | [ProductSalesAnalysis.sql](https://github.com/samacciu23/LeetCode/blob/main/problems/sql/inner%20join/ProductSalesAnalysis.sql) | Inner Join |
